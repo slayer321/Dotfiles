@@ -259,11 +259,11 @@ alias x="exit"
 alias cls='clear'
 alias dus='df -h'
 alias jn='jupyter notebook'
-alias tp='~/Desktop/Tools/timepass'
+alias tp='~/Desktop/Arsenal/Tools/timepass'
 alias hunt="~/Desktop/hunting/"
 alias grep="grep -E"
 alias cod="~/Documents/coding"
-
+alias gc="git clone"
 
 #Arsenal
 
